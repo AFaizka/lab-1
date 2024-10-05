@@ -1,0 +1,5 @@
+﻿  Garage.cpp
+  Keeper.cpp
+D:\User\Documents\study\7\works\c++\2\lab1\Keeper.cpp(116,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  lab1.vcxproj -> D:\User\Documents\study\7\works\c++\2\lab1\x64\Debug\lab1.exe
